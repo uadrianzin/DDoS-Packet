@@ -8,7 +8,7 @@
 
 ### apt install python3
 
-### git clone ??
+### git clone https://github.com/Elbielzinho/DDoS-Packet
 
 ### cd DDoS-Packet
 
