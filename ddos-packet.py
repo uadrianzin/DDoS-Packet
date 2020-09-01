@@ -2,6 +2,7 @@
 #Code by LeeOn123
 #Codigo melhorado 2x por Elbielzinho
 import sys
+import system
 import os
 import time
 import random
@@ -16,7 +17,6 @@ day = now.day
 month = now.month
 year = now.year
 
-os.system("clear")
 os.system("figlet DDoS/Packet")
 print("")
 print("--> Script Melhorado V2 <--")
@@ -30,7 +30,6 @@ times = int(input(" Tamanho de Packet/DDoS:"))
 threads = int(input(" Potencia:"))
 def run():
 
-os.system("clear")
 os.system("figlet CARREGANDO")
 print "[                    ] 0% "
 time.sleep(5)
